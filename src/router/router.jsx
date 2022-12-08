@@ -22,18 +22,18 @@ function Routers() {
                 <Route path="/" element={<Login />} />
                 <Route path="/login" element={<Login />} />
                 <Route path="/cadastro" element={<Cadastro />} />
-                
-            
+
+
             </Route>
 
 
             <Route element={<ProtectedRoutes redirectTo='/login' />}>
                 <Route exact path="/main" element={<App />} >
-                 
+
                 </Route>
             </Route>
 
-           
+
         </Routes>
     )
 }
