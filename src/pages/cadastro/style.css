@@ -1,0 +1,104 @@
+body{
+    background-color: #fafafa;
+}
+
+.div{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+  
+}
+
+.form-cadastro{
+display: flex;
+flex-direction: column;
+
+width: 396px;
+height: auto;
+
+
+margin: auto;
+padding: 30px;
+
+
+
+background: #f3e2f2;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+border-radius: 6px;
+}
+
+.cadastro{
+position: absolute;
+width: 475px;
+height: 35px;
+left: 163px;
+top: 176px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #000000;
+}
+
+
+.button-cadastre{
+  align-items: center;
+  margin-top: 60px;
+  border-radius: 40px;
+  height: 40px;
+  width: 395px;
+  background-color:  #D94D9C;
+    color: #f3e2f2;
+}
+
+.cadastro-p{
+    margin-top: 16px;
+    text-align: center;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+
+.robo{
+    width: 350px;
+    display: flex;
+    text-align: center;
+    margin: auto;
+}
+
+.input-nome{
+    height: 30px;
+    border-radius: 10px;
+}
+.input-email{
+    height: 30px;
+    border-radius: 10px;
+  
+}
+
+.input-senha{
+    height: 30px;
+    border-radius: 10px;
+}
+.span{
+text-align: center;
+margin-top: 20px;
+}
+
+
+label{
+    margin: 20px 0px 5px 0px;
+}
+

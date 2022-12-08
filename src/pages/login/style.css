@@ -1,0 +1,85 @@
+.form-login{
+  display: flex;
+  flex-direction: column;
+  
+  width: 326px;
+  height: auto;
+  
+  
+  margin: auto;
+  padding: 40px;
+  
+  
+  
+  background: #f3e2f2;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+  border-radius: 6px;
+
+}
+
+.login-p{
+text-align: center;
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+
+
+color: #000000;
+
+}
+.bem-vindo{
+text-align: center;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 30;
+font-size: 25px;
+line-height: 35px;
+
+
+}
+.button-cadastro{
+  margin-top: 20px;
+  color: #f3e2f2;
+  background-color:  #D94D9C;
+  width:100%;
+}
+
+  .button-login{
+   background-color:  #D94D9C;
+  }
+
+.div{
+    width: 100vw;
+}
+
+.p.name{
+  left: 30px;
+}
+
+.button-login{
+  height: 40px;
+  border-radius: 10px;
+ 
+  margin-top: 30px;
+  border-radius: 10px;
+  
+  background-color:  #D94D9C;
+  color: #f3e2f2;
+  
+}
+
+.input-login-senha{
+  height: 30px;
+  border-radius: 10px;
+}
+
+.input-login-email{
+  height: 30px;
+  border-radius: 10px;
+}
+
