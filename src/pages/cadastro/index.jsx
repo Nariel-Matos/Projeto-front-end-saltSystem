@@ -16,7 +16,6 @@ export default function Cadastro() {
     e.preventDefault()
     if (!form.nome || !form.email || !form.senha) {
       alert("Todos os campos são obrigatórios")
-
       return
     }
 
