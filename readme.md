@@ -10,7 +10,7 @@
 
 ## Funcionalidades
 
-- Cadastrar,Fazer login,Enviar mensagens.
+- Cadastrar,Fazer login,cadastrar contato, excluir contato, enviar mensagens.
 
 ## Rodando localmente localhost:3000
 ```
