@@ -1,4 +1,4 @@
-# Projeto do de seleção - Saltsystem
+# Projeto de seleção - Saltsystem
 
 ##  Front-end
 
