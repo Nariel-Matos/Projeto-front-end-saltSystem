@@ -39,6 +39,7 @@ const desconectar =  () => {
       console.log(error)
     }
   }
+  //removendo contato por id
 
   useEffect(() => {
  const getContatos = async () => {
@@ -60,6 +61,7 @@ const heandlesSubmitContato = async () => {
     alert("O nome é obrigatório")
     return
   }
+  //verificação da renderização do contato
   if (!form.email) {
     alert("E-mail obrigatório")
     return
